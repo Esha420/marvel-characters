@@ -43,7 +43,7 @@ experiments = mlflow.search_experiments(
 )
 print(experiments)
 
-# COMMAND ----------
+    # COMMAND ----------
 # start a run
 mlflow.start_run()
 
@@ -82,7 +82,7 @@ print(run_info["data"]["metrics"])
 # COMMAND ----------
 print(run_info["data"]["params"])
 
-# COMMAND ----------
+    # COMMAND ----------
 
 run_id = mlflow.search_runs(
     experiment_names=["/Shared/marvel-demo"],
