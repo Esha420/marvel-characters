@@ -41,7 +41,7 @@ pip install uv
 ```
 Set up project environment:
 ```
-uv sync --extra dev 
+uv sync --extra dev
 ```
 This:
 * Creates a virtual environment
@@ -59,7 +59,7 @@ You will receive a workspace URL like:
 https://dbc-1cfe64a4-0242.cloud.databricks.com/
 ```
 ## 4. Configure Databricks Authentication
-Update databricks.yml 
+Update databricks.yml
 
 Replace the host value with your Databricks host URL.
 
