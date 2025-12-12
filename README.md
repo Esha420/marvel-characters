@@ -17,7 +17,7 @@ uv sync --extra dev
 # Data
 Using the [**Marvel Characters Dataset**](https://www.kaggle.com/datasets/mohitbansal31s/marvel-characters?resource=download) from Kaggle.
 
-This dataset contains detailed information about Marvel characters (e.g., name, powers, physical attributes, alignment, etc.).
+This dataset contains all the detailed information about Marvel characters (e.g., name, powers, physical attributes, alignment, etc.).
 It is used to build classification and feature engineering models for various MLOps tasks, such as predicting character attributes or status.
 
 # Scripts
